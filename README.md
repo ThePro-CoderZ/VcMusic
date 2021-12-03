@@ -11,7 +11,7 @@
 - The account must be an admin of the chat, with _Manage Voice Chats_ and _Delete Messages_ permissions.
 
 ## ⇝ Heroku ⇜
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshat7678/VcMusic/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ThePro-CoderZ/VcMusic/tree/VcBot)
 
 ## Commands
 Command | Description
